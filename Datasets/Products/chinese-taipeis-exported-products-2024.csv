@@ -1,0 +1,1201 @@
+Section ID,Section,HS4 ID,HS4,Year,Exports (USD),Share (%)
+1,Animal Products,0101,Horses,2024,769.0,0.000
+1,Animal Products,0103,Pigs,2024,378314.0,0.000
+1,Animal Products,0106,Other Animals,2024,5672675.0,0.001
+1,Animal Products,0201,Bovine Meat,2024,298506.0,0.000
+1,Animal Products,0202,Frozen Bovine Meat,2024,749555.0,0.000
+1,Animal Products,0203,Pig Meat,2024,1856266.0,0.000
+1,Animal Products,0204,Sheep and Goat Meat,2024,6727.0,0.000
+1,Animal Products,0206,Edible Offal,2024,1200646.0,0.000
+1,Animal Products,0207,Poultry Meat,2024,688222.0,0.000
+1,Animal Products,0208,Other Meat,2024,137560.0,0.000
+1,Animal Products,0209,Animal Fat,2024,63.0,0.000
+1,Animal Products,0210,Preserved Meat,2024,852439.0,0.000
+1,Animal Products,0301,Live Fish,2024,104409685.0,0.020
+1,Animal Products,0302,Non-fillet Fresh Fish,2024,46029611.0,0.009
+1,Animal Products,0303,Non-fillet Frozen Fish,2024,1008364691.0,0.190
+1,Animal Products,0304,Fish Fillets,2024,130596944.0,0.025
+1,Animal Products,0305,Dried/Salted/Smoked/Brined Fish,2024,6547957.0,0.001
+1,Animal Products,0306,Crustaceans,2024,23434745.0,0.004
+1,Animal Products,0307,Molluscs,2024,305871049.0,0.058
+1,Animal Products,0308,"Aquatic invertebrates, other than crustaceans and molluscs",2024,11315897.0,0.002
+1,Animal Products,0401,Milk,2024,48837.0,0.000
+1,Animal Products,0402,Concentrated Milk,2024,5545234.0,0.001
+1,Animal Products,0403,Fermented Milk Products,2024,1843250.0,0.000
+1,Animal Products,0404,Whey and other milk products,2024,30437.0,0.000
+1,Animal Products,0405,Butter,2024,70122.0,0.000
+1,Animal Products,0406,Cheese,2024,513950.0,0.000
+1,Animal Products,0407,Eggs,2024,4786964.0,0.001
+1,Animal Products,0408,Processed Egg Products,2024,2038022.0,0.000
+1,Animal Products,0409,Honey,2024,4520569.0,0.001
+1,Animal Products,0410,Other Edible Animal Products,2024,2288447.0,0.000
+1,Animal Products,0501,Human Hair,2024,3209.0,0.000
+1,Animal Products,0502,Pig Hair,2024,61053.0,0.000
+1,Animal Products,0504,Animal Organs,2024,32242.0,0.000
+1,Animal Products,0505,Bird Feathers and Skins,2024,183102572.0,0.034
+1,Animal Products,0506,Processed Bones,2024,1772791.0,0.000
+1,Animal Products,0507,Raw Bones,2024,328940.0,0.000
+1,Animal Products,0508,Coral and Shells,2024,2601707.0,0.000
+1,Animal Products,0510,Pharmaceutical Animal Products,2024,36903.0,0.000
+1,Animal Products,0511,Other Inedible Animal Products,2024,7090127.0,0.001
+2,Vegetable Products,0601,Bulbs and Roots,2024,5054440.0,0.001
+2,Vegetable Products,0602,"Other live plants, cuttings and slips; mushroom spawn",2024,175673091.0,0.033
+2,Vegetable Products,0603,Cut Flowers,2024,41094555.0,0.008
+2,Vegetable Products,0604,Plant foliage,2024,307116.0,0.000
+2,Vegetable Products,0701,Potatoes,2024,3790.0,0.000
+2,Vegetable Products,0702,Tomatoes,2024,148964.0,0.000
+2,Vegetable Products,0703,Onions,2024,1186089.0,0.000
+2,Vegetable Products,0704,Cabbages,2024,494894.0,0.000
+2,Vegetable Products,0705,Lettuce,2024,5938462.0,0.001
+2,Vegetable Products,0706,Root Vegetables,2024,2731849.0,0.001
+2,Vegetable Products,0707,Cucumbers,2024,115145.0,0.000
+2,Vegetable Products,0708,Legumes,2024,317478.0,0.000
+2,Vegetable Products,0709,Other Vegetables,2024,3328989.0,0.001
+2,Vegetable Products,0710,Frozen Vegetables,2024,69499968.0,0.013
+2,Vegetable Products,0711,Preserved Vegetables,2024,1256023.0,0.000
+2,Vegetable Products,0712,Dried Vegetables,2024,3312408.0,0.001
+2,Vegetable Products,0713,Dried Legumes,2024,1682867.0,0.000
+2,Vegetable Products,0714,Cassava,2024,3311820.0,0.001
+2,Vegetable Products,0801,"Coconuts, Brazil Nuts, and Cashews",2024,469271.0,0.000
+2,Vegetable Products,0802,Other Nuts,2024,729498.0,0.000
+2,Vegetable Products,0803,Bananas,2024,2267465.0,0.000
+2,Vegetable Products,0804,Tropical Fruits,2024,46531598.0,0.009
+2,Vegetable Products,0805,Citrus,2024,7894586.0,0.001
+2,Vegetable Products,0806,Grapes,2024,1968011.0,0.000
+2,Vegetable Products,0807,Melons,2024,642066.0,0.000
+2,Vegetable Products,0808,Apples and Pears,2024,542419.0,0.000
+2,Vegetable Products,0809,Pitted Fruits,2024,932769.0,0.000
+2,Vegetable Products,0810,Other Fruits,2024,33501213.0,0.006
+2,Vegetable Products,0811,Frozen Fruits and Nuts,2024,1241285.0,0.000
+2,Vegetable Products,0812,Preserved Fruits and Nuts,2024,703229.0,0.000
+2,Vegetable Products,0813,Dried Fruits,2024,890428.0,0.000
+2,Vegetable Products,0814,Citrus and Melon Peels,2024,19398.0,0.000
+2,Vegetable Products,0901,Coffee,2024,9776308.0,0.002
+2,Vegetable Products,0902,Tea,2024,87793898.0,0.017
+2,Vegetable Products,0903,Mate,2024,2691.0,0.000
+2,Vegetable Products,0904,Pepper,2024,2739301.0,0.001
+2,Vegetable Products,0905,Vanilla,2024,70699.0,0.000
+2,Vegetable Products,0906,Cinnamon,2024,21923.0,0.000
+2,Vegetable Products,0907,Cloves,2024,16657.0,0.000
+2,Vegetable Products,0908,"Nutmeg, mace and cardamons",2024,20081.0,0.000
+2,Vegetable Products,0909,Spice Seeds,2024,260595.0,0.000
+2,Vegetable Products,0910,Spices,2024,6909051.0,0.001
+2,Vegetable Products,1001,Wheat,2024,43169.0,0.000
+2,Vegetable Products,1003,Barley,2024,4611.0,0.000
+2,Vegetable Products,1004,Oats,2024,17998.0,0.000
+2,Vegetable Products,1005,Corn,2024,347281.0,0.000
+2,Vegetable Products,1006,Rice,2024,107696761.0,0.020
+2,Vegetable Products,1007,Sorghum,2024,8996.0,0.000
+2,Vegetable Products,1008,Buckwheat,2024,544180.0,0.000
+2,Vegetable Products,1101,Wheat Flours,2024,18028024.0,0.003
+2,Vegetable Products,1102,Cereal Flours,2024,1719819.0,0.000
+2,Vegetable Products,1103,Cereal Meal and Pellets,2024,125617.0,0.000
+2,Vegetable Products,1104,Processed Cereals,2024,1402220.0,0.000
+2,Vegetable Products,1105,Potato Flours,2024,941294.0,0.000
+2,Vegetable Products,1106,Legume Flours,2024,5242119.0,0.001
+2,Vegetable Products,1107,Malt,2024,157.0,0.000
+2,Vegetable Products,1108,Starches,2024,5496175.0,0.001
+2,Vegetable Products,1109,Wheat Gluten,2024,251225.0,0.000
+2,Vegetable Products,1201,Soybeans,2024,2322878.0,0.000
+2,Vegetable Products,1202,Ground Nuts,2024,113198.0,0.000
+2,Vegetable Products,1203,Copra,2024,8636.0,0.000
+2,Vegetable Products,1204,Linseed,2024,93409.0,0.000
+2,Vegetable Products,1205,Rapeseed,2024,73464.0,0.000
+2,Vegetable Products,1206,Sunflower Seeds,2024,2437008.0,0.000
+2,Vegetable Products,1207,Other Oily Seeds,2024,2747437.0,0.001
+2,Vegetable Products,1208,Oil Seed Flower,2024,1319166.0,0.000
+2,Vegetable Products,1209,Sowing Seeds,2024,30343675.0,0.006
+2,Vegetable Products,1211,Perfume Plants,2024,18511784.0,0.003
+2,Vegetable Products,1212,"Locust beans, seaweed, sugar beet, cane, for food",2024,6494765.0,0.001
+2,Vegetable Products,1213,Cereal Straws,2024,4753.0,0.000
+2,Vegetable Products,1214,Forage Crops,2024,63992.0,0.000
+2,Vegetable Products,1301,Insect Resins,2024,144331.0,0.000
+2,Vegetable Products,1302,Vegetable Saps,2024,24707481.0,0.005
+2,Vegetable Products,1401,Vegetable Plaiting Materials,2024,1329506.0,0.000
+2,Vegetable Products,1404,Other Vegetable Products,2024,3549994.0,0.001
+3,Animal and Vegetable Bi-Products,1501,Pig and Poultry Fat,2024,306702.0,0.000
+3,Animal and Vegetable Bi-Products,1502,"Bovine, Sheep, and Goat Fat",2024,4953.0,0.000
+3,Animal and Vegetable Bi-Products,1504,Fish Oil,2024,181153.0,0.000
+3,Animal and Vegetable Bi-Products,1505,Wool Grease,2024,70066.0,0.000
+3,Animal and Vegetable Bi-Products,1506,Other Animal Fats,2024,128492.0,0.000
+3,Animal and Vegetable Bi-Products,1507,Soybean Oil,2024,22681636.0,0.004
+3,Animal and Vegetable Bi-Products,1508,Ground Nut Oil,2024,3874031.0,0.001
+3,Animal and Vegetable Bi-Products,1509,Pure Olive Oil,2024,603405.0,0.000
+3,Animal and Vegetable Bi-Products,1510,Olive Oil,2024,10663.0,0.000
+3,Animal and Vegetable Bi-Products,1511,Palm Oil,2024,1219968.0,0.000
+3,Animal and Vegetable Bi-Products,1512,Seed Oils,2024,138305.0,0.000
+3,Animal and Vegetable Bi-Products,1513,Coconut Oil,2024,85655.0,0.000
+3,Animal and Vegetable Bi-Products,1514,Rapeseed Oil,2024,94918.0,0.000
+3,Animal and Vegetable Bi-Products,1515,Other Pure Vegetable Oils,2024,33159562.0,0.006
+3,Animal and Vegetable Bi-Products,1516,Other Vegetable Oils,2024,5166315.0,0.001
+3,Animal and Vegetable Bi-Products,1517,Margarine,2024,7640014.0,0.001
+3,Animal and Vegetable Bi-Products,1518,Inedible Fats and Oils,2024,69343312.0,0.013
+3,Animal and Vegetable Bi-Products,1520,Glycerol,2024,501883.0,0.000
+3,Animal and Vegetable Bi-Products,1521,Vegetable waxes and beeswax,2024,319205.0,0.000
+3,Animal and Vegetable Bi-Products,1522,Fat and Oil Residues,2024,717841.0,0.000
+4,Foodstuffs,1601,Sausages,2024,2857488.0,0.001
+4,Foodstuffs,1602,Other Prepared Meat,2024,19635380.0,0.004
+4,Foodstuffs,1603,Animal Extracts,2024,6452185.0,0.001
+4,Foodstuffs,1604,Processed Fish,2024,57763198.0,0.011
+4,Foodstuffs,1605,Processed Crustaceans,2024,49365997.0,0.009
+4,Foodstuffs,1701,Raw Sugar,2024,18698107.0,0.004
+4,Foodstuffs,1702,Other Sugars,2024,38229241.0,0.007
+4,Foodstuffs,1703,Molasses,2024,3126892.0,0.001
+4,Foodstuffs,1704,Confectionery Sugar,2024,76391509.0,0.014
+4,Foodstuffs,1801,Cocoa Beans,2024,1375.0,0.000
+4,Foodstuffs,1803,Cocoa Paste,2024,17988.0,0.000
+4,Foodstuffs,1804,Cocoa Butter,2024,3214.0,0.000
+4,Foodstuffs,1805,Cocoa Powder,2024,393474.0,0.000
+4,Foodstuffs,1806,Chocolate,2024,12913101.0,0.002
+4,Foodstuffs,1901,Malt Extract,2024,63797579.0,0.012
+4,Foodstuffs,1902,Pasta,2024,115422583.0,0.022
+4,Foodstuffs,1903,Tapioca,2024,87048540.0,0.016
+4,Foodstuffs,1904,Prepared Cereals,2024,24275753.0,0.005
+4,Foodstuffs,1905,Baked Goods,2024,193475902.0,0.036
+4,Foodstuffs,2001,Pickled Foods,2024,1330969.0,0.000
+4,Foodstuffs,2002,Processed Tomatoes,2024,74515.0,0.000
+4,Foodstuffs,2003,Processed Mushrooms,2024,1205109.0,0.000
+4,Foodstuffs,2004,Other Frozen Vegetables,2024,12131312.0,0.002
+4,Foodstuffs,2005,Other Processed Vegetables,2024,36019216.0,0.007
+4,Foodstuffs,2006,Sugar Preserved Foods,2024,3380100.0,0.001
+4,Foodstuffs,2007,Jams,2024,29363895.0,0.006
+4,Foodstuffs,2008,Other Processed Fruits and Nuts,2024,64319447.0,0.012
+4,Foodstuffs,2009,Fruit Juice,2024,31331870.0,0.006
+4,Foodstuffs,2101,Coffee and Tea Extracts,2024,31186404.0,0.006
+4,Foodstuffs,2102,Yeast,2024,10521125.0,0.002
+4,Foodstuffs,2103,Sauces and Seasonings,2024,78323022.0,0.015
+4,Foodstuffs,2104,Soups and Broths,2024,22770934.0,0.004
+4,Foodstuffs,2105,Ice Cream,2024,13121660.0,0.002
+4,Foodstuffs,2106,Other Edible Preparations,2024,689463032.0,0.130
+4,Foodstuffs,2201,Water,2024,3687080.0,0.001
+4,Foodstuffs,2202,Flavored Water,2024,236409271.0,0.044
+4,Foodstuffs,2203,Beer,2024,4458476.0,0.001
+4,Foodstuffs,2204,Wine,2024,3602445.0,0.001
+4,Foodstuffs,2205,Vermouth,2024,18987.0,0.000
+4,Foodstuffs,2206,Other Fermented Beverages,2024,1946457.0,0.000
+4,Foodstuffs,2207,Alcohol > 80% ABV,2024,16168.0,0.000
+4,Foodstuffs,2208,Hard Liquor,2024,102252972.0,0.019
+4,Foodstuffs,2209,Vinegar,2024,4576754.0,0.001
+4,Foodstuffs,2301,Animal Meal and Pellets,2024,1639222.0,0.000
+4,Foodstuffs,2302,Bran,2024,13317917.0,0.003
+4,Foodstuffs,2303,Starch Residue,2024,5336.0,0.000
+4,Foodstuffs,2304,Soybean Meal,2024,26286129.0,0.005
+4,Foodstuffs,2306,Other Vegetable Residues,2024,295008.0,0.000
+4,Foodstuffs,2307,Wine Lees,2024,263.0,0.000
+4,Foodstuffs,2308,Other Vegetable Residues and Waste,2024,1502838.0,0.000
+4,Foodstuffs,2309,Animal Food,2024,110193071.0,0.021
+4,Foodstuffs,2401,Raw Tobacco,2024,3159814.0,0.001
+4,Foodstuffs,2402,Rolled Tobacco,2024,239018015.0,0.045
+4,Foodstuffs,2403,Processed Tobacco,2024,8912683.0,0.002
+5,Mineral Products,2501,Salt,2024,3091697.0,0.001
+5,Mineral Products,2502,Iron Pyrites,2024,1847100.0,0.000
+5,Mineral Products,2503,Sulphur,2024,25440672.0,0.005
+5,Mineral Products,2504,Graphite,2024,368655.0,0.000
+5,Mineral Products,2505,Sand,2024,23474426.0,0.004
+5,Mineral Products,2506,Quartz,2024,18489981.0,0.003
+5,Mineral Products,2507,Kaolin,2024,2933131.0,0.001
+5,Mineral Products,2508,Clays,2024,3235989.0,0.001
+5,Mineral Products,2509,Chalk,2024,198819.0,0.000
+5,Mineral Products,2510,Calcium Phosphates,2024,43394.0,0.000
+5,Mineral Products,2511,Barium Sulphate,2024,106517.0,0.000
+5,Mineral Products,2512,Siliceous Fossil Meals,2024,108156.0,0.000
+5,Mineral Products,2513,Pumice,2024,178867.0,0.000
+5,Mineral Products,2515,"Marble, Travertine and Alabaster",2024,884004.0,0.000
+5,Mineral Products,2516,Granite,2024,48743.0,0.000
+5,Mineral Products,2517,Gravel and Crushed Stone,2024,634964.0,0.000
+5,Mineral Products,2518,Dolomite,2024,138080.0,0.000
+5,Mineral Products,2519,Magnesium Carbonate,2024,1218410.0,0.000
+5,Mineral Products,2520,Gypsum,2024,302374.0,0.000
+5,Mineral Products,2521,Limestone,2024,6982.0,0.000
+5,Mineral Products,2522,Quicklime,2024,101917.0,0.000
+5,Mineral Products,2523,Cement,2024,10048610.0,0.002
+5,Mineral Products,2525,Mica,2024,267661.0,0.000
+5,Mineral Products,2526,Soapstone,2024,3204995.0,0.001
+5,Mineral Products,2528,Borax,2024,14895.0,0.000
+5,Mineral Products,2529,Feldspar,2024,1110832.0,0.000
+5,Mineral Products,2530,Other Mineral,2024,7275079.0,0.001
+5,Mineral Products,2601,Iron Ore,2024,2592.0,0.000
+5,Mineral Products,2602,Manganese Ore,2024,564342.0,0.000
+5,Mineral Products,2603,Copper Ore,2024,558661267.0,0.105
+5,Mineral Products,2604,Nickel Ore,2024,54931917.0,0.010
+5,Mineral Products,2605,Cobalt Ore,2024,2218241.0,0.000
+5,Mineral Products,2606,Aluminium Ore,2024,591662.0,0.000
+5,Mineral Products,2607,Lead Ore,2024,1813203.0,0.000
+5,Mineral Products,2608,Zinc Ore,2024,2619624.0,0.000
+5,Mineral Products,2609,Tin Ores,2024,23759.0,0.000
+5,Mineral Products,2610,Chromium Ore,2024,1486.0,0.000
+5,Mineral Products,2611,Tungsten Ore,2024,379675.0,0.000
+5,Mineral Products,2613,Molybdenum Ore,2024,11371187.0,0.002
+5,Mineral Products,2614,Titanium Ore,2024,12760167.0,0.002
+5,Mineral Products,2615,"Niobium, Tantalum, Vanadium and Zirconium Ore",2024,4449717.0,0.001
+5,Mineral Products,2616,Precious Metal Ore,2024,169283357.0,0.032
+5,Mineral Products,2617,Other Ores,2024,243332.0,0.000
+5,Mineral Products,2618,Granulated Slag,2024,2004142.0,0.000
+5,Mineral Products,2619,Slag Dross,2024,24753745.0,0.005
+5,Mineral Products,2620,"Slag, Ash and Residues Containing Heavy Metals, not from Ferrous Metallurgy",2024,120613520.0,0.023
+5,Mineral Products,2621,Other Slag and Ash,2024,348584.0,0.000
+5,Mineral Products,2701,"Coal, Briquettes and Similar Manufactured Solid Fuels",2024,708228.0,0.000
+5,Mineral Products,2702,Lignite,2024,1626.0,0.000
+5,Mineral Products,2703,Peat,2024,199326.0,0.000
+5,Mineral Products,2704,Coke,2024,10945957.0,0.002
+5,Mineral Products,2705,Non-Petroleum Gas,2024,83006.0,0.000
+5,Mineral Products,2706,Tar from mineral fuels,2024,146944.0,0.000
+5,Mineral Products,2707,Coal Tar Oil,2024,190585465.0,0.036
+5,Mineral Products,2708,Pitch Coke,2024,55367632.0,0.010
+5,Mineral Products,2709,Crude Petroleum,2024,1429.0,0.000
+5,Mineral Products,2710,Refined Petroleum,2024,9314467533.0,1.753
+5,Mineral Products,2711,Petroleum Gas,2024,3248240.0,0.001
+5,Mineral Products,2712,Petroleum Jelly,2024,32142293.0,0.006
+5,Mineral Products,2713,Petroleum Coke,2024,155052798.0,0.029
+5,Mineral Products,2714,Bitumen and asphalt,2024,8857105.0,0.002
+5,Mineral Products,2715,Asphalt Mixtures,2024,1416529.0,0.000
+5,Mineral Products,2716,Electricity,2024,580.0,0.000
+6,Chemical Products,2801,Halogens,2024,492239.0,0.000
+6,Chemical Products,2802,Sulfur,2024,1034165.0,0.000
+6,Chemical Products,2803,Carbon,2024,45992600.0,0.009
+6,Chemical Products,2804,"Hydrogen, rare gases and other non-metals",2024,149090309.0,0.028
+6,Chemical Products,2805,"Alkali, alkaline-earth, rare-earth metals, scandium, yttrium, and mercury",2024,1377982.0,0.000
+6,Chemical Products,2806,Hydrochloric Acid,2024,13911994.0,0.003
+6,Chemical Products,2807,Sulfuric Acid,2024,94351032.0,0.018
+6,Chemical Products,2808,Nitric Acids,2024,5737618.0,0.001
+6,Chemical Products,2809,Phosphoric Acid,2024,29957545.0,0.006
+6,Chemical Products,2810,Boron,2024,6053240.0,0.001
+6,Chemical Products,2811,Other Inorganic Acids,2024,205127740.0,0.039
+6,Chemical Products,2812,Halides,2024,7889772.0,0.001
+6,Chemical Products,2813,Nonmetal Sulfides,2024,4050.0,0.000
+6,Chemical Products,2814,Ammonia,2024,15901116.0,0.003
+6,Chemical Products,2815,Sodium or Potassium Peroxides,2024,334549561.0,0.063
+6,Chemical Products,2816,Magnesium Hydroxide and Peroxide,2024,109265.0,0.000
+6,Chemical Products,2817,Zinc Oxide and Peroxide,2024,49993932.0,0.009
+6,Chemical Products,2818,Aluminium Oxide,2024,7764563.0,0.001
+6,Chemical Products,2819,Chromium Oxides and Hydroxides,2024,849213.0,0.000
+6,Chemical Products,2820,Manganese Oxides,2024,45302.0,0.000
+6,Chemical Products,2821,Iron Oxides and Hydroxides,2024,12299548.0,0.002
+6,Chemical Products,2822,Cobalt Oxides and Hydroxides,2024,13242031.0,0.002
+6,Chemical Products,2823,Titanium Oxides,2024,2039535.0,0.000
+6,Chemical Products,2824,Lead Oxides,2024,15772971.0,0.003
+6,Chemical Products,2825,Inorganic Salts,2024,61832848.0,0.012
+6,Chemical Products,2826,Fluorides,2024,13004317.0,0.002
+6,Chemical Products,2827,Chlorides,2024,25226839.0,0.005
+6,Chemical Products,2828,Hypochlorites,2024,2006578.0,0.000
+6,Chemical Products,2829,Chlorates and Perchlorates,2024,236883.0,0.000
+6,Chemical Products,2830,Sulfides,2024,997991.0,0.000
+6,Chemical Products,2831,Dithionites and Sulfoxylates,2024,3594612.0,0.001
+6,Chemical Products,2832,Sulfites,2024,1039398.0,0.000
+6,Chemical Products,2833,Sulfates,2024,312310439.0,0.059
+6,Chemical Products,2834,Nitrites and Nitrates,2024,3989065.0,0.001
+6,Chemical Products,2835,Phosphinates (hypophosphites) and phosphonates (phosphites),2024,5582162.0,0.001
+6,Chemical Products,2836,Carbonates,2024,52646116.0,0.010
+6,Chemical Products,2837,Cyanides,2024,19311608.0,0.004
+6,Chemical Products,2839,Silicates,2024,18988142.0,0.004
+6,Chemical Products,2840,Borates,2024,215987.0,0.000
+6,Chemical Products,2841,Oxometallic or Peroxometallic Acid Salts,2024,65609664.0,0.012
+6,Chemical Products,2842,Other Inorganic Acids Salts,2024,6640066.0,0.001
+6,Chemical Products,2843,Precious Metal Compounds,2024,33405971.0,0.006
+6,Chemical Products,2844,Radioactive Chemicals,2024,42915.0,0.000
+6,Chemical Products,2845,Other Isotopes,2024,721191.0,0.000
+6,Chemical Products,2846,Rare-Earth Metal Compounds,2024,10534990.0,0.002
+6,Chemical Products,2847,Hydrogen peroxide,2024,6809249.0,0.001
+6,Chemical Products,2849,Carbides,2024,25823534.0,0.005
+6,Chemical Products,2850,Hydrides and other anions,2024,14156302.0,0.003
+6,Chemical Products,2852,"Compounds, inorganic or organic, of mercury, excluding amalgams",2024,11855.0,0.000
+6,Chemical Products,2853,Other inorganic compounds,2024,6711544.0,0.001
+6,Chemical Products,2901,Acyclic Hydrocarbons,2024,152840627.0,0.029
+6,Chemical Products,2902,Cyclic Hydrocarbons,2024,2340262979.0,0.440
+6,Chemical Products,2903,Halogenated Hydrocarbons,2024,228009973.0,0.043
+6,Chemical Products,2904,"Sulfonated, Nitrated or Nitrosated Hydrocarbons",2024,15938785.0,0.003
+6,Chemical Products,2905,"Acyclic alcohol derivatives (halogenated, sulphonated, nitrated)",2024,813522742.0,0.153
+6,Chemical Products,2906,Cyclic Alcohols,2024,16225789.0,0.003
+6,Chemical Products,2907,Phenols,2024,583330042.0,0.110
+6,Chemical Products,2908,Phenol Derivatives,2024,6487770.0,0.001
+6,Chemical Products,2909,Ethers,2024,389092869.0,0.073
+6,Chemical Products,2910,Epoxides,2024,24587229.0,0.005
+6,Chemical Products,2911,Acetals and Hemiacetals,2024,10791.0,0.000
+6,Chemical Products,2912,"Aldehydes, cyclic polymers, and paraformaldehyde",2024,48733635.0,0.009
+6,Chemical Products,2913,Halogenated aldehyde derivatives (heading 2912),2024,575892.0,0.000
+6,Chemical Products,2914,Ketones and Quinones,2024,359181209.0,0.068
+6,Chemical Products,2915,Saturated Acyclic Monocarboxylic Acids,2024,382034439.0,0.072
+6,Chemical Products,2916,Unsaturated Acyclic Monocarboxylic Acids,2024,450626574.0,0.085
+6,Chemical Products,2917,Polycarboxylic Acids,2024,1193996105.0,0.225
+6,Chemical Products,2918,Carboxylic Acids,2024,89082901.0,0.017
+6,Chemical Products,2919,Phosphoric Esters and Salts,2024,19675816.0,0.004
+6,Chemical Products,2920,Other Esters,2024,65908078.0,0.012
+6,Chemical Products,2921,Amine Compounds,2024,68412775.0,0.013
+6,Chemical Products,2922,Oxygen Amino Compounds,2024,89791115.0,0.017
+6,Chemical Products,2923,Quaternary Ammonium Salts and Hydroxides,2024,24572471.0,0.005
+6,Chemical Products,2924,Carboxyamide Compounds,2024,25456209.0,0.005
+6,Chemical Products,2925,Carboxyimide Compounds,2024,37204166.0,0.007
+6,Chemical Products,2926,Nitrile Compounds,2024,339453244.0,0.064
+6,Chemical Products,2927,"Diazo, Azo or Aoxy Compounds",2024,4106594.0,0.001
+6,Chemical Products,2928,Hydrazine or Hydroxylamine Derivatives,2024,5547791.0,0.001
+6,Chemical Products,2929,Other Nitrogen Compounds,2024,27768542.0,0.005
+6,Chemical Products,2930,Organo-Sulfur Compounds,2024,49523801.0,0.009
+6,Chemical Products,2931,Other Organo-Inorganic Compounds,2024,135845152.0,0.026
+6,Chemical Products,2932,Oxygen Heterocyclic Compounds,2024,47703993.0,0.009
+6,Chemical Products,2933,Nitrogen Heterocyclic Compounds,2024,250886228.0,0.047
+6,Chemical Products,2934,Nucleic Acids,2024,66364878.0,0.012
+6,Chemical Products,2935,Sulfonamides,2024,10215289.0,0.002
+6,Chemical Products,2936,Vitamins,2024,22839154.0,0.004
+6,Chemical Products,2937,Hormones,2024,69692939.0,0.013
+6,Chemical Products,2938,Glycosides,2024,2939884.0,0.001
+6,Chemical Products,2939,Vegetable Alkaloids,2024,17515525.0,0.003
+6,Chemical Products,2940,Chemically Pure Sugars,2024,741512.0,0.000
+6,Chemical Products,2941,Antibiotics,2024,31239866.0,0.006
+6,Chemical Products,2942,Other Organic Compounds,2024,42145689.0,0.008
+6,Chemical Products,3001,Glands and Other Organs,2024,1666319.0,0.000
+6,Chemical Products,3002,"Vaccines, blood, antisera, toxins and cultures",2024,142146050.0,0.027
+6,Chemical Products,3003,Unpackaged Medicaments,2024,13773418.0,0.003
+6,Chemical Products,3004,Packaged Medicaments,2024,735332568.0,0.138
+6,Chemical Products,3005,Bandages,2024,55340745.0,0.010
+6,Chemical Products,3006,Special Pharmaceuticals,2024,20677852.0,0.004
+6,Chemical Products,3101,Animal or Vegetable Fertilizers,2024,2652575.0,0.000
+6,Chemical Products,3102,Nitrogenous Fertilizers,2024,36696258.0,0.007
+6,Chemical Products,3104,Potassic Fertilizers,2024,134476512.0,0.025
+6,Chemical Products,3105,Mixed Mineral or Chemical Fertilizers,2024,12090858.0,0.002
+6,Chemical Products,3201,Vegetable Tanning Extracts,2024,538715.0,0.000
+6,Chemical Products,3202,Synthetic Tanning Extracts,2024,9531478.0,0.002
+6,Chemical Products,3203,Vegetable or Animal Dyes,2024,6948181.0,0.001
+6,Chemical Products,3204,Synthetic Coloring Matter,2024,315503123.0,0.059
+6,Chemical Products,3205,Lake Pigments,2024,2087734.0,0.000
+6,Chemical Products,3206,Other Coloring Matter,2024,71233058.0,0.013
+6,Chemical Products,3207,Prepared Pigments,2024,263286820.0,0.050
+6,Chemical Products,3208,Nonaqueous Paints,2024,148046478.0,0.028
+6,Chemical Products,3209,Aqueous Paints,2024,50657248.0,0.010
+6,Chemical Products,3210,Other Paints,2024,37272710.0,0.007
+6,Chemical Products,3211,Prepared Paint Driers,2024,773821.0,0.000
+6,Chemical Products,3212,Nonaqueous Pigments,2024,104793387.0,0.020
+6,Chemical Products,3213,Artistry Paints,2024,3801191.0,0.001
+6,Chemical Products,3214,Glaziers Putty,2024,56130709.0,0.011
+6,Chemical Products,3215,Ink,2024,105166749.0,0.020
+6,Chemical Products,3301,Essential Oils,2024,5592651.0,0.001
+6,Chemical Products,3302,Scented Mixtures,2024,63160826.0,0.012
+6,Chemical Products,3303,Perfumes,2024,15351481.0,0.003
+6,Chemical Products,3304,Beauty Products,2024,466952840.0,0.088
+6,Chemical Products,3305,Hair Products,2024,37520423.0,0.007
+6,Chemical Products,3306,Dental Products,2024,24058040.0,0.005
+6,Chemical Products,3307,Shaving Products,2024,63419307.0,0.012
+6,Chemical Products,3401,Soap,2024,30092468.0,0.006
+6,Chemical Products,3402,Cleaning Products,2024,302828434.0,0.057
+6,Chemical Products,3403,Lubricating Products,2024,86021019.0,0.016
+6,Chemical Products,3404,Waxes,2024,36138344.0,0.007
+6,Chemical Products,3405,Polishes and Creams,2024,215448728.0,0.041
+6,Chemical Products,3406,Candles,2024,2390147.0,0.000
+6,Chemical Products,3407,Pastes and Waxes,2024,1661404.0,0.000
+6,Chemical Products,3501,Casein,2024,172358.0,0.000
+6,Chemical Products,3502,Water Soluble Proteins,2024,176730.0,0.000
+6,Chemical Products,3503,Gelatin,2024,6937237.0,0.001
+6,Chemical Products,3504,Peptones,2024,7176847.0,0.001
+6,Chemical Products,3505,Dextrins,2024,21723810.0,0.004
+6,Chemical Products,3506,Glues,2024,537701943.0,0.101
+6,Chemical Products,3507,Enzymes,2024,29533225.0,0.006
+6,Chemical Products,3601,Propellant Powders,2024,92.0,0.000
+6,Chemical Products,3603,Detonating Fuses,2024,183696.0,0.000
+6,Chemical Products,3604,Fireworks,2024,2117487.0,0.000
+6,Chemical Products,3605,Matches,2024,115.0,0.000
+6,Chemical Products,3606,Pyrophoric Alloys,2024,319503.0,0.000
+6,Chemical Products,3701,Photographic Plates,2024,60110565.0,0.011
+6,Chemical Products,3702,Photographic Film,2024,56502131.0,0.011
+6,Chemical Products,3703,Photographic Paper,2024,477286.0,0.000
+6,Chemical Products,3704,Undeveloped Exposed Photographic Material,2024,306851.0,0.000
+6,Chemical Products,3705,Developed Exposed Photographic Material,2024,414101923.0,0.078
+6,Chemical Products,3706,"Motion-picture film, exposed and developed",2024,18289.0,0.000
+6,Chemical Products,3707,Photographic Chemicals,2024,361695320.0,0.068
+6,Chemical Products,3801,Artificial Graphite,2024,10350520.0,0.002
+6,Chemical Products,3802,Activated Carbon,2024,8049760.0,0.002
+6,Chemical Products,3804,Wood Pulp Lyes,2024,91101.0,0.000
+6,Chemical Products,3805,Turpentine,2024,130943.0,0.000
+6,Chemical Products,3806,Rosin,2024,5176142.0,0.001
+6,Chemical Products,3807,"Wood Tar, Oils and Pitch",2024,106176.0,0.000
+6,Chemical Products,3808,Pesticides,2024,150610018.0,0.028
+6,Chemical Products,3809,Dyeing Finishing Agents,2024,168498846.0,0.032
+6,Chemical Products,3810,Metal Pickling Preparations,2024,79810658.0,0.015
+6,Chemical Products,3811,Antiknock,2024,22798009.0,0.004
+6,Chemical Products,3812,Prepared Rubber Accelerators,2024,194659634.0,0.037
+6,Chemical Products,3813,Fire Extinguishers Preparations,2024,95059.0,0.000
+6,Chemical Products,3814,Organic Composite Solvents,2024,65908795.0,0.012
+6,Chemical Products,3815,Reaction and Catalytic Products,2024,61838386.0,0.012
+6,Chemical Products,3816,Refractory Cements,2024,15678857.0,0.003
+6,Chemical Products,3817,Alkylbenzenes and Alkylnaphthalenes,2024,144179718.0,0.027
+6,Chemical Products,3818,Disc Chemicals for Electronics,2024,1333040139.0,0.251
+6,Chemical Products,3819,Hydraulic Brake Fluid,2024,911169.0,0.000
+6,Chemical Products,3820,Antifreeze,2024,896372.0,0.000
+6,Chemical Products,3821,Micro-Organism Culture Preparations,2024,5792600.0,0.001
+6,Chemical Products,3822,Laboratory Reagents,2024,332356409.0,0.063
+6,Chemical Products,3823,"Industrial Fatty Acids, Oils and Alcohols",2024,8801807.0,0.002
+6,Chemical Products,3824,Prepr binder for foundry,2024,1034780161.0,0.195
+6,Chemical Products,3825,Residual products of the chemical or allied industries,2024,3837611.0,0.001
+6,Chemical Products,3826,Biodiesel and mixtures thereof,2024,122029089.0,0.023
+7,Plastics and Rubbers,3901,Ethylene Polymers,2024,885026531.0,0.167
+7,Plastics and Rubbers,3902,Propylene Polymers,2024,778069318.0,0.146
+7,Plastics and Rubbers,3903,Styrene Polymers,2024,2443456486.0,0.460
+7,Plastics and Rubbers,3904,Vinyl Chloride Polymers,2024,994398018.0,0.187
+7,Plastics and Rubbers,3905,Other Vinyl Polymers,2024,535286432.0,0.101
+7,Plastics and Rubbers,3906,Acrylic Polymers,2024,618022201.0,0.116
+7,Plastics and Rubbers,3907,Polyacetals,2024,3563771092.0,0.671
+7,Plastics and Rubbers,3908,Polyamides,2024,462977110.0,0.087
+7,Plastics and Rubbers,3909,Amino-resins,2024,567623732.0,0.107
+7,Plastics and Rubbers,3910,Silicone,2024,86494085.0,0.016
+7,Plastics and Rubbers,3911,Petroleum Resins,2024,172143513.0,0.032
+7,Plastics and Rubbers,3912,Cellulose,2024,146986564.0,0.028
+7,Plastics and Rubbers,3913,Natural Polymers,2024,2071305.0,0.000
+7,Plastics and Rubbers,3914,Polymer Ion-Exchangers,2024,13054565.0,0.002
+7,Plastics and Rubbers,3915,Scrap Plastic,2024,37488020.0,0.007
+7,Plastics and Rubbers,3916,Monofilament,2024,19129155.0,0.004
+7,Plastics and Rubbers,3917,Plastic Pipes,2024,420053364.0,0.079
+7,Plastics and Rubbers,3918,Plastic Floor Coverings,2024,217055163.0,0.041
+7,Plastics and Rubbers,3919,Self-adhesive Plastics,2024,987517429.0,0.186
+7,Plastics and Rubbers,3920,Raw Plastic Sheeting,2024,1477678607.0,0.278
+7,Plastics and Rubbers,3921,Other Plastic Sheetings,2024,464820801.0,0.087
+7,Plastics and Rubbers,3922,Plastic Wash Basins,2024,13264868.0,0.002
+7,Plastics and Rubbers,3923,Plastic Lids,2024,1059341520.0,0.199
+7,Plastics and Rubbers,3924,Plastic Housewares,2024,389514085.0,0.073
+7,Plastics and Rubbers,3925,Plastic Building Materials,2024,157953796.0,0.030
+7,Plastics and Rubbers,3926,Other Plastic Products,2024,1778544960.0,0.335
+7,Plastics and Rubbers,4001,Rubber,2024,6230756.0,0.001
+7,Plastics and Rubbers,4002,Synthetic Rubber,2024,1059764484.0,0.199
+7,Plastics and Rubbers,4003,Reclaimed Rubber,2024,1603413.0,0.000
+7,Plastics and Rubbers,4004,Scrap Rubber,2024,3828460.0,0.001
+7,Plastics and Rubbers,4005,Compounded Unvulcanised Rubber,2024,36224284.0,0.007
+7,Plastics and Rubbers,4006,Unvulcanised Rubber Products,2024,2897538.0,0.001
+7,Plastics and Rubbers,4007,Rubber Thread,2024,1772373.0,0.000
+7,Plastics and Rubbers,4008,Rubber Sheets,2024,50464934.0,0.009
+7,Plastics and Rubbers,4009,Rubber Pipes,2024,51149346.0,0.010
+7,Plastics and Rubbers,4010,Rubber Belting,2024,95953492.0,0.018
+7,Plastics and Rubbers,4011,Rubber Tires,2024,698172022.0,0.131
+7,Plastics and Rubbers,4012,Used Rubber Tires,2024,25210507.0,0.005
+7,Plastics and Rubbers,4013,Rubber Inner Tubes,2024,11284404.0,0.002
+7,Plastics and Rubbers,4014,Pharmaceutical Rubber Products,2024,3354495.0,0.001
+7,Plastics and Rubbers,4015,Rubber Apparel,2024,12291135.0,0.002
+7,Plastics and Rubbers,4016,Other Rubber Products,2024,714898911.0,0.135
+7,Plastics and Rubbers,4017,Hard Rubber,2024,30920435.0,0.006
+8,Animal Hides,4101,Equine and Bovine Hides,2024,60327.0,0.000
+8,Animal Hides,4103,Other Hides and Skins,2024,435399.0,0.000
+8,Animal Hides,4104,Tanned Equine and Bovine Hides,2024,50237063.0,0.009
+8,Animal Hides,4105,Tanned Sheep Hides,2024,1308.0,0.000
+8,Animal Hides,4106,Tanned Goat Hides,2024,11360473.0,0.002
+8,Animal Hides,4107,Leather of Other Animals,2024,89666713.0,0.017
+8,Animal Hides,4112,Leather further prepared after tanning or crusting of sheep or lamb,2024,779848.0,0.000
+8,Animal Hides,4113,Leather further prepared after tanning or crusting of animals (other than ovine),2024,20343512.0,0.004
+8,Animal Hides,4114,Chamois (including combination chamois) leather,2024,8929115.0,0.002
+8,Animal Hides,4115,Composition leather with a basis of leather or leather fibre,2024,5727788.0,0.001
+8,Animal Hides,4201,Saddlery,2024,34267342.0,0.006
+8,Animal Hides,4202,Trunks and Cases,2024,185626545.0,0.035
+8,Animal Hides,4203,Leather Apparel,2024,46340060.0,0.009
+8,Animal Hides,4205,Other Leather Articles,2024,5457227.0,0.001
+8,Animal Hides,4206,Articles of Gut,2024,27321.0,0.000
+8,Animal Hides,4301,Raw Furskins,2024,494.0,0.000
+8,Animal Hides,4302,Tanned Furskins,2024,8818.0,0.000
+8,Animal Hides,4303,Furskin Apparel,2024,3345244.0,0.001
+8,Animal Hides,4304,Artificial Fur,2024,449554.0,0.000
+9,Wood Products,4401,Fuel Wood,2024,427264.0,0.000
+9,Wood Products,4402,Wood Charcoal,2024,431425.0,0.000
+9,Wood Products,4403,Rough Wood,2024,3685798.0,0.001
+9,Wood Products,4404,Wood Stakes,2024,93021.0,0.000
+9,Wood Products,4405,Wood Wool,2024,596416.0,0.000
+9,Wood Products,4407,Sawn Wood,2024,12719063.0,0.002
+9,Wood Products,4408,Veneer Sheets,2024,10467020.0,0.002
+9,Wood Products,4409,Shaped Wood,2024,5863506.0,0.001
+9,Wood Products,4410,Particle Board,2024,2376163.0,0.000
+9,Wood Products,4411,Wood Fiberboard,2024,4718325.0,0.001
+9,Wood Products,4412,Plywood,2024,33754525.0,0.006
+9,Wood Products,4413,Densified Wood,2024,188852.0,0.000
+9,Wood Products,4414,Wood Frames,2024,538014.0,0.000
+9,Wood Products,4415,Wood Crates,2024,18694120.0,0.004
+9,Wood Products,4416,Wood Barrels,2024,70989.0,0.000
+9,Wood Products,4417,Wooden Tool Handles,2024,1171062.0,0.000
+9,Wood Products,4418,Wood Carpentry,2024,10932764.0,0.002
+9,Wood Products,4419,Wood Kitchenware,2024,6328966.0,0.001
+9,Wood Products,4420,Wood Ornaments,2024,6627649.0,0.001
+9,Wood Products,4421,Other Wood Articles,2024,17878024.0,0.003
+9,Wood Products,4501,Raw Cork,2024,447811.0,0.000
+9,Wood Products,4502,Debacked Cork,2024,19840.0,0.000
+9,Wood Products,4503,Natural Cork Articles,2024,632724.0,0.000
+9,Wood Products,4504,Agglomerated Cork,2024,3342638.0,0.001
+9,Wood Products,4601,Plaiting Products,2024,4072332.0,0.001
+9,Wood Products,4602,Basketwork,2024,7256889.0,0.001
+10,Paper Goods,4701,Mechanical Wood Pulp,2024,328179.0,0.000
+10,Paper Goods,4703,Sulfate Chemical Woodpulp,2024,26224687.0,0.005
+10,Paper Goods,4704,Sulfite Chemical Woodpulp,2024,19719.0,0.000
+10,Paper Goods,4706,Recovered Paper Pulp,2024,61053829.0,0.011
+10,Paper Goods,4707,Recovered Paper,2024,20432139.0,0.004
+10,Paper Goods,4801,Newsprint,2024,139074.0,0.000
+10,Paper Goods,4802,Uncoated Paper,2024,57188966.0,0.011
+10,Paper Goods,4803,Tissue,2024,7815055.0,0.001
+10,Paper Goods,4804,Kraft Paper,2024,65820361.0,0.012
+10,Paper Goods,4805,Other Uncoated Paper,2024,368204387.0,0.069
+10,Paper Goods,4806,Vegetable Parchment,2024,137463823.0,0.026
+10,Paper Goods,4807,Composite Paper,2024,1142786.0,0.000
+10,Paper Goods,4808,Corrugated Paper,2024,11043876.0,0.002
+10,Paper Goods,4809,Carbon Paper,2024,5163545.0,0.001
+10,Paper Goods,4810,Kaolin Coated Paper,2024,170548641.0,0.032
+10,Paper Goods,4811,Cellulose Fibers Paper,2024,117863344.0,0.022
+10,Paper Goods,4812,Paper Pulp Filter Blocks,2024,282251.0,0.000
+10,Paper Goods,4813,Cigarette Paper,2024,138630.0,0.000
+10,Paper Goods,4814,Wallpaper,2024,1117122.0,0.000
+10,Paper Goods,4816,Other Carbon Paper,2024,6163238.0,0.001
+10,Paper Goods,4817,Letter Stock,2024,8847039.0,0.002
+10,Paper Goods,4818,Toilet Paper,2024,68149257.0,0.013
+10,Paper Goods,4819,Paper Containers,2024,132823178.0,0.025
+10,Paper Goods,4820,Paper Notebooks,2024,37119099.0,0.007
+10,Paper Goods,4821,Paper Labels,2024,83765944.0,0.016
+10,Paper Goods,4822,Paper Spools,2024,4545455.0,0.001
+10,Paper Goods,4823,Shaped Paper,2024,210523564.0,0.040
+10,Paper Goods,4901,Brochures,2024,91410474.0,0.017
+10,Paper Goods,4902,Newspapers,2024,1513048.0,0.000
+10,Paper Goods,4903,Children's Picture Books,2024,2633607.0,0.000
+10,Paper Goods,4904,Sheet Music,2024,53577.0,0.000
+10,Paper Goods,4905,Maps,2024,5082089.0,0.001
+10,Paper Goods,4906,Architectural Plans,2024,444176.0,0.000
+10,Paper Goods,4907,Documents of title (bonds etc) and unused stamps,2024,41925716.0,0.008
+10,Paper Goods,4908,Decals,2024,143611654.0,0.027
+10,Paper Goods,4909,Postcards,2024,940851.0,0.000
+10,Paper Goods,4910,Calendars,2024,2399959.0,0.000
+10,Paper Goods,4911,Other Printed Material,2024,46100285.0,0.009
+11,Textiles,5001,Silk-worm Cocoons,2024,374.0,0.000
+11,Textiles,5002,Raw Silk,2024,2114.0,0.000
+11,Textiles,5004,Non-Retail Silk Yarn,2024,103901.0,0.000
+11,Textiles,5006,Retail Silk Yarn,2024,26562.0,0.000
+11,Textiles,5007,Silk Fabrics,2024,655462.0,0.000
+11,Textiles,5101,Wool,2024,190251.0,0.000
+11,Textiles,5102,Animal Hair,2024,287151.0,0.000
+11,Textiles,5103,Wool or Animal Hair Waste,2024,67393.0,0.000
+11,Textiles,5105,Prepared Wool or Animal Hair,2024,10211489.0,0.002
+11,Textiles,5106,Non-Retail Carded Wool Yarn,2024,902384.0,0.000
+11,Textiles,5107,Non-Retail Combed Wool Yarn,2024,8383160.0,0.002
+11,Textiles,5108,Non-Retail Animal Hair Yarn,2024,2236248.0,0.000
+11,Textiles,5109,Retail Wool or Animal Hair Yarn,2024,1766872.0,0.000
+11,Textiles,5110,Horsehair Yarn,2024,3121.0,0.000
+11,Textiles,5111,Carded Wool or Animal Hair Fabric,2024,159985.0,0.000
+11,Textiles,5112,Combed Wool or Animal Hair Fabric,2024,2254640.0,0.000
+11,Textiles,5113,Horsehair Fabric,2024,95.0,0.000
+11,Textiles,5201,Raw Cotton,2024,1553492.0,0.000
+11,Textiles,5202,Cotton Waste,2024,426590.0,0.000
+11,Textiles,5203,Prepared Cotton,2024,158302.0,0.000
+11,Textiles,5204,Cotton Sewing Thread,2024,1196798.0,0.000
+11,Textiles,5205,Non-Retail Pure Cotton Yarn,2024,86777297.0,0.016
+11,Textiles,5206,Non-Retail Mixed Cotton Yarn,2024,14188175.0,0.003
+11,Textiles,5207,Retail Cotton Yarn,2024,297988.0,0.000
+11,Textiles,5208,Light Pure Woven Cotton,2024,19775064.0,0.004
+11,Textiles,5209,Heavy Pure Woven Cotton,2024,52606461.0,0.010
+11,Textiles,5210,Light Mixed Woven Cotton,2024,18875339.0,0.004
+11,Textiles,5211,Heavy Mixed Woven Cotton,2024,33365889.0,0.006
+11,Textiles,5212,Other Cotton Fabrics,2024,3824972.0,0.001
+11,Textiles,5301,Flax Fibers,2024,674112.0,0.000
+11,Textiles,5302,Hemp Fibers,2024,218.0,0.000
+11,Textiles,5303,Jute and Other Textile Fibers,2024,49603.0,0.000
+11,Textiles,5305,Coconut and Other Vegetable Fibers,2024,107010.0,0.000
+11,Textiles,5306,Flax Yarn,2024,208163.0,0.000
+11,Textiles,5307,Jute Yarn,2024,44849.0,0.000
+11,Textiles,5308,Other Vegetable Fibers Yarn,2024,1618049.0,0.000
+11,Textiles,5309,Flax Woven Fabric,2024,2247770.0,0.000
+11,Textiles,5310,Jute Woven Fabric,2024,138316.0,0.000
+11,Textiles,5311,Other Vegetable Fibers Fabric,2024,1594608.0,0.000
+11,Textiles,5401,Artificial Filament Sewing Thread,2024,10386852.0,0.002
+11,Textiles,5402,Non-Retail Synthetic Filament Yarn,2024,716565780.0,0.135
+11,Textiles,5403,Non-Retail Artificial Filament Yarn,2024,14524260.0,0.003
+11,Textiles,5404,Synthetic Monofilament,2024,14761722.0,0.003
+11,Textiles,5405,Artificial Monofilament,2024,95634.0,0.000
+11,Textiles,5406,Retail Artificial Filament Yarn,2024,885510.0,0.000
+11,Textiles,5407,Synthetic Filament Yarn Woven Fabric,2024,1346300268.0,0.253
+11,Textiles,5408,Artificial Filament Yarn Woven Fabric,2024,17697244.0,0.003
+11,Textiles,5501,Synthetic Filament Tow,2024,1578621.0,0.000
+11,Textiles,5502,Artificial Filament Tow,2024,2982005.0,0.001
+11,Textiles,5503,Unprocessed Synthetic Staple Fibers,2024,314586366.0,0.059
+11,Textiles,5504,Unprocessed Artificial Staple Fibers,2024,23769499.0,0.004
+11,Textiles,5505,Artificial Fibers Waste,2024,2441623.0,0.000
+11,Textiles,5506,Processed Synthetic Staple Fibers,2024,8071503.0,0.002
+11,Textiles,5507,Processed Artificial Staple Fibers,2024,1858.0,0.000
+11,Textiles,5508,Non-Retail Artificial Staple Fibers Sewing Thread,2024,2935010.0,0.001
+11,Textiles,5509,Non-Retail Synthetic Staple Fibers Yarn,2024,29323728.0,0.006
+11,Textiles,5510,Non-Retail Artificial Staple Fibers Yarn,2024,576653.0,0.000
+11,Textiles,5511,Retail Artificial Staple Fibers Yarn,2024,301436.0,0.000
+11,Textiles,5512,Synthetic Fabrics,2024,77183168.0,0.015
+11,Textiles,5513,Light Synthetic Cotton Fabrics,2024,12631002.0,0.002
+11,Textiles,5514,Heavy Synthetic Cotton Fabrics,2024,24080932.0,0.005
+11,Textiles,5515,Other Synthetic Fabrics,2024,67127369.0,0.013
+11,Textiles,5516,Woven Fabric of Synthetic Staple Fibers,2024,16861662.0,0.003
+11,Textiles,5601,Wadding,2024,7663799.0,0.001
+11,Textiles,5602,Felt,2024,5983804.0,0.001
+11,Textiles,5603,Non-woven Textiles,2024,318062648.0,0.060
+11,Textiles,5604,Rubber Textiles,2024,8783651.0,0.002
+11,Textiles,5605,Metallic Yarn,2024,1945486.0,0.000
+11,Textiles,5606,Gimp Yarn,2024,1584208.0,0.000
+11,Textiles,5607,Twine and Rope,2024,40832288.0,0.008
+11,Textiles,5608,"Twine, cordage or rope; knotted netting, made up fishing nets and other made up nets, of textile materials",2024,39035493.0,0.007
+11,Textiles,5609,Other Articles of Twine and Rope,2024,14132794.0,0.003
+11,Textiles,5701,Knotted Carpets,2024,114411.0,0.000
+11,Textiles,5702,Hand-Woven Rugs,2024,175151.0,0.000
+11,Textiles,5703,Tufted Carpets,2024,3695544.0,0.001
+11,Textiles,5704,Felt Carpets,2024,3095112.0,0.001
+11,Textiles,5705,Other Carpets,2024,2707257.0,0.001
+11,Textiles,5801,Woven Fabrics,2024,2523409.0,0.000
+11,Textiles,5802,Terry Fabric,2024,1710678.0,0.000
+11,Textiles,5803,Gauze,2024,390349.0,0.000
+11,Textiles,5804,Tulles and Net Fabric,2024,86728733.0,0.016
+11,Textiles,5805,Hand-Woven Tapestries,2024,5840.0,0.000
+11,Textiles,5806,Narrow Woven Fabric,2024,266856798.0,0.050
+11,Textiles,5807,Labels,2024,28884774.0,0.005
+11,Textiles,5808,Ornamental Trimmings,2024,22527361.0,0.004
+11,Textiles,5809,Metallic Fabric,2024,127127.0,0.000
+11,Textiles,5810,Embroidery,2024,30284431.0,0.006
+11,Textiles,5811,Quilted Textiles,2024,3640636.0,0.001
+11,Textiles,5901,Gum Coated Textile Fabric,2024,3675400.0,0.001
+11,Textiles,5902,Polyamide Fabric,2024,47481930.0,0.009
+11,Textiles,5903,Plastic Coated Textile Fabric,2024,648518441.0,0.122
+11,Textiles,5904,Linoleum,2024,970955.0,0.000
+11,Textiles,5905,Textile Wall Coverings,2024,921997.0,0.000
+11,Textiles,5906,Rubber Textile Fabric,2024,60494032.0,0.011
+11,Textiles,5907,Coated Textile Fabric,2024,8523604.0,0.002
+11,Textiles,5908,Textile Wicks,2024,86812.0,0.000
+11,Textiles,5909,Hose Piping Textiles,2024,1123071.0,0.000
+11,Textiles,5910,Conveyor Belt Textiles,2024,3881088.0,0.001
+11,Textiles,5911,Textiles for technical uses,2024,37476931.0,0.007
+11,Textiles,6001,Pile Fabric,2024,84775554.0,0.016
+11,Textiles,6002,Light Rubberized Knitted Fabric,2024,9628770.0,0.002
+11,Textiles,6003,Knitted or crocheted fabrics of a width not exceeding 30 cm,2024,24102677.0,0.005
+11,Textiles,6004,Knitted or crocheted fabrics of a width exceeding 30 cm,2024,751331829.0,0.141
+11,Textiles,6005,Warp knit fabrics (including those made on galloon knitting machines),2024,133876367.0,0.025
+11,Textiles,6006,Other knitted or crocheted fabrics.,2024,902738770.0,0.170
+11,Textiles,6101,Knit Men's Coats,2024,3735008.0,0.001
+11,Textiles,6102,Knit Women's Coats,2024,3473370.0,0.001
+11,Textiles,6103,Knit Men's Suits,2024,6091361.0,0.001
+11,Textiles,6104,Knit Women's Suits,2024,14594963.0,0.003
+11,Textiles,6105,Knit Men's Shirts,2024,4215863.0,0.001
+11,Textiles,6106,Knit Women's Shirts,2024,3520760.0,0.001
+11,Textiles,6107,Knit Men's Undergarments,2024,5051105.0,0.001
+11,Textiles,6108,Knit Women's Undergarments,2024,2941377.0,0.001
+11,Textiles,6109,Knit T-shirts,2024,25404921.0,0.005
+11,Textiles,6110,Knit Sweaters,2024,27696243.0,0.005
+11,Textiles,6111,Knit Babies' Garments,2024,2387453.0,0.000
+11,Textiles,6112,Knit Active Wear,2024,6323579.0,0.001
+11,Textiles,6113,Garments of Impregnated Fabric,2024,2190710.0,0.000
+11,Textiles,6114,Other Knit Garments,2024,15421195.0,0.003
+11,Textiles,6115,Knit Socks and Hosiery,2024,66905733.0,0.013
+11,Textiles,6116,Knit Gloves,2024,10353421.0,0.002
+11,Textiles,6117,Other Knit Clothing Accessories,2024,43557815.0,0.008
+11,Textiles,6201,Non-Knit Men's Coats,2024,10203005.0,0.002
+11,Textiles,6202,Non-Knit Women's Coats,2024,8265917.0,0.002
+11,Textiles,6203,Non-Knit Men's Suits,2024,18208600.0,0.003
+11,Textiles,6204,Non-Knit Women's Suits,2024,24792252.0,0.005
+11,Textiles,6205,Non-Knit Men's Shirts,2024,3432404.0,0.001
+11,Textiles,6206,Non-Knit Women's Shirts,2024,3627330.0,0.001
+11,Textiles,6207,Non-Knit Men's Undergarments,2024,403283.0,0.000
+11,Textiles,6208,Non-Knit Women's Undergarments,2024,572267.0,0.000
+11,Textiles,6209,Non-Knit Babies' Garments,2024,479024.0,0.000
+11,Textiles,6210,Felt or Coated Fabric Garments,2024,10593966.0,0.002
+11,Textiles,6211,Non-Knit Active Wear,2024,10020629.0,0.002
+11,Textiles,6212,Other Women's Undergarments,2024,20319094.0,0.004
+11,Textiles,6213,Handkerchiefs,2024,97122.0,0.000
+11,Textiles,6214,Scarves,2024,2329027.0,0.000
+11,Textiles,6215,Neck Ties,2024,266573.0,0.000
+11,Textiles,6216,Non-Knit Gloves,2024,2615935.0,0.000
+11,Textiles,6217,Other Non-Knit Clothing Accessories,2024,59611473.0,0.011
+11,Textiles,6301,Blankets,2024,5273981.0,0.001
+11,Textiles,6302,House Linens,2024,12295139.0,0.002
+11,Textiles,6303,Window Dressings,2024,76355682.0,0.014
+11,Textiles,6304,Bedspreads,2024,3049286.0,0.001
+11,Textiles,6305,Packing Bags,2024,5172200.0,0.001
+11,Textiles,6306,"Awnings, Tents, and Sails",2024,60137752.0,0.011
+11,Textiles,6307,Other Cloth Articles,2024,189618291.0,0.036
+11,Textiles,6308,Packaged Sewing Sets,2024,165263.0,0.000
+11,Textiles,6309,Used Clothing,2024,15291554.0,0.003
+11,Textiles,6310,Textile Scraps,2024,2920212.0,0.001
+12,Footwear and Headwear,6401,Waterproof Footwear,2024,1277984.0,0.000
+12,Footwear and Headwear,6402,Rubber Footwear,2024,34732571.0,0.007
+12,Footwear and Headwear,6403,Leather Footwear,2024,42555703.0,0.008
+12,Footwear and Headwear,6404,Textile Footwear,2024,35839484.0,0.007
+12,Footwear and Headwear,6405,Other Footwear,2024,4070287.0,0.001
+12,Footwear and Headwear,6406,Footwear Parts,2024,122960453.0,0.023
+12,Footwear and Headwear,6501,Hat Forms,2024,659459.0,0.000
+12,Footwear and Headwear,6502,Hat Shapes,2024,60469.0,0.000
+12,Footwear and Headwear,6504,Hats,2024,1024573.0,0.000
+12,Footwear and Headwear,6505,Knitted Hats,2024,45830690.0,0.009
+12,Footwear and Headwear,6506,Other Headwear,2024,51562978.0,0.010
+12,Footwear and Headwear,6507,Headbands and Linings,2024,19031940.0,0.004
+12,Footwear and Headwear,6601,Umbrellas,2024,3191761.0,0.001
+12,Footwear and Headwear,6602,Walking Sticks,2024,40888770.0,0.008
+12,Footwear and Headwear,6603,Umbrella and Walking Stick Accessories,2024,4547298.0,0.001
+12,Footwear and Headwear,6701,Bird Skins and Feathers,2024,2466300.0,0.000
+12,Footwear and Headwear,6702,Artificial Vegetation,2024,1076951.0,0.000
+12,Footwear and Headwear,6703,Processed Hair,2024,1938.0,0.000
+12,Footwear and Headwear,6704,Fake Hair,2024,765004.0,0.000
+13,Stone And Glass,6801,Curbstones,2024,121121.0,0.000
+13,Stone And Glass,6802,Building Stone,2024,6701323.0,0.001
+13,Stone And Glass,6803,Worked Slate,2024,91585.0,0.000
+13,Stone And Glass,6804,Milling Stones,2024,68311190.0,0.013
+13,Stone And Glass,6805,Abrasive Powder,2024,29154964.0,0.005
+13,Stone And Glass,6806,Rock Wool,2024,13358734.0,0.003
+13,Stone And Glass,6807,Asphalt,2024,302602.0,0.000
+13,Stone And Glass,6808,Vegetable Fiber,2024,745198.0,0.000
+13,Stone And Glass,6809,Plaster Articles,2024,2749923.0,0.001
+13,Stone And Glass,6810,Cement Articles,2024,38557182.0,0.007
+13,Stone And Glass,6811,Asbestos Cement Articles,2024,3123263.0,0.001
+13,Stone And Glass,6812,Asbestos Fibres,2024,623765.0,0.000
+13,Stone And Glass,6813,Friction Material,2024,4661871.0,0.001
+13,Stone And Glass,6814,Processed Mica,2024,503023.0,0.000
+13,Stone And Glass,6815,Other Stone Articles,2024,144596200.0,0.027
+13,Stone And Glass,6901,Bricks,2024,98145.0,0.000
+13,Stone And Glass,6902,Refractory Bricks,2024,5806853.0,0.001
+13,Stone And Glass,6903,Refractory Ceramics,2024,8106003.0,0.002
+13,Stone And Glass,6904,Ceramic Bricks,2024,1010774.0,0.000
+13,Stone And Glass,6905,Roofing Tiles,2024,103400.0,0.000
+13,Stone And Glass,6906,Ceramic Pipes,2024,596556.0,0.000
+13,Stone And Glass,6907,Unglazed Ceramics,2024,3269088.0,0.001
+13,Stone And Glass,6909,Laboratory Ceramic Ware,2024,87347734.0,0.016
+13,Stone And Glass,6910,Bathroom Ceramics,2024,1902378.0,0.000
+13,Stone And Glass,6911,Porcelain Tableware,2024,3807418.0,0.001
+13,Stone And Glass,6912,Ceramic Tableware,2024,4249617.0,0.001
+13,Stone And Glass,6913,Ornamental Ceramics,2024,2937817.0,0.001
+13,Stone And Glass,6914,Other Ceramic Articles,2024,21375878.0,0.004
+13,Stone And Glass,7001,Glass Scraps,2024,14246596.0,0.003
+13,Stone And Glass,7002,Glass Balls,2024,4112154.0,0.001
+13,Stone And Glass,7003,Cast or Rolled Glass,2024,53953664.0,0.010
+13,Stone And Glass,7004,Blown Glass,2024,117056660.0,0.022
+13,Stone And Glass,7005,Float Glass,2024,143836994.0,0.027
+13,Stone And Glass,7006,Glass with Edge Workings,2024,313265756.0,0.059
+13,Stone And Glass,7007,Safety Glass,2024,55190704.0,0.010
+13,Stone And Glass,7008,Insulating Glass,2024,861818.0,0.000
+13,Stone And Glass,7009,Glass Mirrors,2024,249790071.0,0.047
+13,Stone And Glass,7010,Glass Bottles,2024,147423050.0,0.028
+13,Stone And Glass,7011,Glass Bulbs,2024,2427153.0,0.000
+13,Stone And Glass,7013,Interior Decorative Glassware,2024,24353534.0,0.005
+13,Stone And Glass,7014,Signaling Glassware,2024,14457227.0,0.003
+13,Stone And Glass,7015,Eyewear and Clock Glass,2024,567786.0,0.000
+13,Stone And Glass,7016,Glass Bricks,2024,622372.0,0.000
+13,Stone And Glass,7017,Laboratory Glassware,2024,4880313.0,0.001
+13,Stone And Glass,7018,Glass Beads,2024,1575523.0,0.000
+13,Stone And Glass,7019,Glass Fibers,2024,506139537.0,0.095
+13,Stone And Glass,7020,Other Glass Articles,2024,105285347.0,0.020
+14,Precious Metals,7101,Pearls,2024,1593767.0,0.000
+14,Precious Metals,7102,Diamonds,2024,16282162.0,0.003
+14,Precious Metals,7103,Precious Stones,2024,12442777.0,0.002
+14,Precious Metals,7104,Synthetic Reconstructed Jewellery Stones,2024,8018432.0,0.002
+14,Precious Metals,7105,Precious Stone Dust,2024,941928.0,0.000
+14,Precious Metals,7106,Silver,2024,400719662.0,0.075
+14,Precious Metals,7107,Silver Clad Metals,2024,435638.0,0.000
+14,Precious Metals,7108,Gold,2024,796513840.0,0.150
+14,Precious Metals,7109,Gold Clad Metals,2024,2081.0,0.000
+14,Precious Metals,7110,Platinum,2024,297516311.0,0.056
+14,Precious Metals,7111,Platinum Clad Metals,2024,4853.0,0.000
+14,Precious Metals,7112,Precious Metal Scraps,2024,219405220.0,0.041
+14,Precious Metals,7113,Jewellery,2024,488726355.0,0.092
+14,Precious Metals,7114,Metal-Clad Products,2024,22100376.0,0.004
+14,Precious Metals,7115,Other Precious Metal Products,2024,136040853.0,0.026
+14,Precious Metals,7116,Pearl Products,2024,5710060.0,0.001
+14,Precious Metals,7117,Imitation Jewellery,2024,18290798.0,0.003
+14,Precious Metals,7118,Coin,2024,39159.0,0.000
+15,Metals,7201,Pig Iron,2024,14518231.0,0.003
+15,Metals,7202,Ferroalloys,2024,36928027.0,0.007
+15,Metals,7203,Iron Reductions,2024,899375.0,0.000
+15,Metals,7204,Scrap Iron,2024,151842719.0,0.029
+15,Metals,7205,Iron Powder,2024,22413084.0,0.004
+15,Metals,7206,Iron Ingots,2024,555045.0,0.000
+15,Metals,7207,Semi-Finished Iron,2024,53639093.0,0.010
+15,Metals,7208,Hot-Rolled Iron,2024,1954088523.0,0.368
+15,Metals,7209,Cold-Rolled Iron,2024,902320603.0,0.170
+15,Metals,7210,Coated Flat-Rolled Iron,2024,1719664751.0,0.324
+15,Metals,7211,Large Flat-Rolled Iron,2024,74983709.0,0.014
+15,Metals,7212,Large Coated Flat-Rolled Iron,2024,27140129.0,0.005
+15,Metals,7213,Hot-Rolled Iron Bars,2024,82196886.0,0.015
+15,Metals,7214,Raw Iron Bars,2024,101481656.0,0.019
+15,Metals,7215,Other Iron Bars,2024,59485077.0,0.011
+15,Metals,7216,Iron Blocks,2024,91690951.0,0.017
+15,Metals,7217,Iron Wire,2024,64757526.0,0.012
+15,Metals,7218,Stainless Steel Ingots,2024,29840141.0,0.006
+15,Metals,7219,Large Flat-Rolled Stainless Steel,2024,1623022367.0,0.305
+15,Metals,7220,Flat-Rolled Stainless Steel,2024,118062372.0,0.022
+15,Metals,7221,Hot-Rolled Stainless Steel Bars,2024,333568095.0,0.063
+15,Metals,7222,Other Stainless Steel Bars,2024,343558553.0,0.065
+15,Metals,7223,Stainless Steel Wire,2024,80762249.0,0.015
+15,Metals,7224,Steel Ingots,2024,964887.0,0.000
+15,Metals,7225,Flat Flat-Rolled Steel,2024,593963008.0,0.112
+15,Metals,7226,Flat-Rolled Iron,2024,51203453.0,0.010
+15,Metals,7227,Steel Bars,2024,39714173.0,0.007
+15,Metals,7228,Other Steel Bars,2024,191277033.0,0.036
+15,Metals,7229,Steel Wire,2024,63985259.0,0.012
+15,Metals,7301,Iron Sheet Piling,2024,834966.0,0.000
+15,Metals,7302,Iron Railway Products,2024,1169521.0,0.000
+15,Metals,7303,Cast Iron Pipes,2024,1039637.0,0.000
+15,Metals,7304,Iron Pipes,2024,67925021.0,0.013
+15,Metals,7305,Other Large Iron Pipes,2024,5362315.0,0.001
+15,Metals,7306,Other Small Iron Pipes,2024,671728215.0,0.126
+15,Metals,7307,Iron Pipe Fittings,2024,363917866.0,0.068
+15,Metals,7308,Iron Structures,2024,229535652.0,0.043
+15,Metals,7309,Large Iron Containers,2024,48209265.0,0.009
+15,Metals,7310,Small Iron Containers,2024,77638692.0,0.015
+15,Metals,7311,Iron Gas Containers,2024,20783439.0,0.004
+15,Metals,7312,Stranded Iron Wire,2024,29936010.0,0.006
+15,Metals,7313,Barbed Wire,2024,134980.0,0.000
+15,Metals,7314,Iron Cloth,2024,32401628.0,0.006
+15,Metals,7315,Iron Chains,2024,103546652.0,0.019
+15,Metals,7316,Iron Anchors,2024,2330436.0,0.000
+15,Metals,7317,Iron Nails,2024,75643348.0,0.014
+15,Metals,7318,Iron Fasteners,2024,5012942155.0,0.944
+15,Metals,7319,Iron Sewing Needles,2024,7274416.0,0.001
+15,Metals,7320,Iron Springs,2024,71635162.0,0.013
+15,Metals,7321,Iron Stovetops,2024,62380345.0,0.012
+15,Metals,7322,Iron Radiators,2024,13019700.0,0.002
+15,Metals,7323,Iron Housewares,2024,159332924.0,0.030
+15,Metals,7324,Iron Toiletry,2024,86017521.0,0.016
+15,Metals,7325,Other Cast Iron Products,2024,35014512.0,0.007
+15,Metals,7326,Other Iron Products,2024,955447439.0,0.180
+15,Metals,7401,Precipitated Copper,2024,15950668.0,0.003
+15,Metals,7402,Raw Copper,2024,20216663.0,0.004
+15,Metals,7403,Refined Copper,2024,428904733.0,0.081
+15,Metals,7404,Scrap Copper,2024,906041794.0,0.171
+15,Metals,7405,Copper Alloys,2024,114754.0,0.000
+15,Metals,7406,Copper Powder,2024,13380171.0,0.003
+15,Metals,7407,Copper Bars,2024,158254616.0,0.030
+15,Metals,7408,Copper Wire,2024,433374532.0,0.082
+15,Metals,7409,Copper Plating,2024,249530151.0,0.047
+15,Metals,7410,Copper Foil,2024,1873103518.0,0.353
+15,Metals,7411,Copper Pipes,2024,7687132.0,0.001
+15,Metals,7412,Copper Pipe Fittings,2024,104010500.0,0.020
+15,Metals,7413,Stranded Copper Wire,2024,16311569.0,0.003
+15,Metals,7415,Copper Fasteners,2024,106851818.0,0.020
+15,Metals,7418,Copper Housewares,2024,33140355.0,0.006
+15,Metals,7419,Other Copper Products,2024,153591699.0,0.029
+15,Metals,7501,Nickel Mattes,2024,3112997.0,0.001
+15,Metals,7502,Raw Nickel,2024,87254983.0,0.016
+15,Metals,7503,Scrap Nickel,2024,24931832.0,0.005
+15,Metals,7504,Nickel Powder,2024,27110595.0,0.005
+15,Metals,7505,Nickel Bars,2024,69566201.0,0.013
+15,Metals,7506,Nickel Sheets,2024,8890262.0,0.002
+15,Metals,7507,Nickel Pipes,2024,3518056.0,0.001
+15,Metals,7508,Other Nickel Products,2024,173644778.0,0.033
+15,Metals,7601,Raw Aluminium,2024,325605799.0,0.061
+15,Metals,7602,Scrap Aluminium,2024,342225175.0,0.064
+15,Metals,7603,Aluminium Powder,2024,3914110.0,0.001
+15,Metals,7604,Aluminium Bars,2024,126055968.0,0.024
+15,Metals,7605,Aluminium Wire,2024,3701905.0,0.001
+15,Metals,7606,Aluminium Plating,2024,233717268.0,0.044
+15,Metals,7607,Aluminium Foil,2024,98656118.0,0.019
+15,Metals,7608,Aluminium Pipes,2024,33602765.0,0.006
+15,Metals,7609,Aluminium Pipe Fittings,2024,15937979.0,0.003
+15,Metals,7610,Aluminium Structures,2024,53715262.0,0.010
+15,Metals,7611,Large Aluminium Containers,2024,332473.0,0.000
+15,Metals,7612,Aluminium Cans,2024,20316789.0,0.004
+15,Metals,7613,Aluminium Gas Containers,2024,17619884.0,0.003
+15,Metals,7614,Stranded Aluminium Wire,2024,674007.0,0.000
+15,Metals,7615,Aluminium Housewares,2024,16377543.0,0.003
+15,Metals,7616,Other Aluminium Products,2024,446031031.0,0.084
+15,Metals,7801,Raw Lead,2024,106965926.0,0.020
+15,Metals,7802,Scrap Lead,2024,249841.0,0.000
+15,Metals,7804,Lead Sheets,2024,9699753.0,0.002
+15,Metals,7806,Other Lead Products,2024,2397924.0,0.000
+15,Metals,7901,Raw Zinc,2024,39066448.0,0.007
+15,Metals,7902,Scrap Waste,2024,3160003.0,0.001
+15,Metals,7903,Zinc Powder,2024,2153923.0,0.000
+15,Metals,7904,Zinc Bars,2024,327041.0,0.000
+15,Metals,7905,Zinc Sheets,2024,479182.0,0.000
+15,Metals,7907,Other Zinc Products,2024,68990719.0,0.013
+15,Metals,8001,Raw Tin,2024,57325752.0,0.011
+15,Metals,8002,Scrap Tin,2024,1775815.0,0.000
+15,Metals,8003,Tin Bars,2024,34066395.0,0.006
+15,Metals,8007,Other Tin Products,2024,25358599.0,0.005
+15,Metals,8101,Tungsten,2024,10955628.0,0.002
+15,Metals,8102,Molybdenum,2024,26204505.0,0.005
+15,Metals,8103,Tantalum,2024,14924286.0,0.003
+15,Metals,8104,Magnesium,2024,17155248.0,0.003
+15,Metals,8105,Cobalt,2024,13104558.0,0.002
+15,Metals,8106,Bismuth,2024,775528.0,0.000
+15,Metals,8107,Cadmium,2024,13978.0,0.000
+15,Metals,8108,Titanium,2024,56747889.0,0.011
+15,Metals,8109,Zirconium,2024,1211044.0,0.000
+15,Metals,8110,Antimony,2024,823191.0,0.000
+15,Metals,8111,Manganese,2024,163700.0,0.000
+15,Metals,8112,Other Metals,2024,64759134.0,0.012
+15,Metals,8113,Cermets,2024,12521800.0,0.002
+15,Metals,8201,Garden Tools,2024,120390725.0,0.023
+15,Metals,8202,Hand Saws,2024,57515556.0,0.011
+15,Metals,8203,Hand Tools,2024,229369780.0,0.043
+15,Metals,8204,Wrenches,2024,984028909.0,0.185
+15,Metals,8205,Other Hand Tools,2024,855821812.0,0.161
+15,Metals,8206,Tool Sets,2024,194847925.0,0.037
+15,Metals,8207,Interchangeable Tool Parts,2024,619957654.0,0.117
+15,Metals,8208,Cutting Blades,2024,57152417.0,0.011
+15,Metals,8209,Tool Plates,2024,50462896.0,0.009
+15,Metals,8210,Cooking Hand Tools,2024,9510299.0,0.002
+15,Metals,8211,Knives,2024,88640332.0,0.017
+15,Metals,8212,Razor Blades,2024,3129959.0,0.001
+15,Metals,8213,Scissors,2024,31601700.0,0.006
+15,Metals,8214,Other Cutlery,2024,16384233.0,0.003
+15,Metals,8215,Cutlery Sets,2024,7118230.0,0.001
+15,Metals,8301,Padlocks,2024,591625150.0,0.111
+15,Metals,8302,Metal Mountings,2024,1505828224.0,0.283
+15,Metals,8303,Safes,2024,11082770.0,0.002
+15,Metals,8304,Filing Cabinets,2024,2095081.0,0.000
+15,Metals,8305,Metal Office Supplies,2024,21227639.0,0.004
+15,Metals,8306,Bells and Other Metal Ornaments,2024,15881978.0,0.003
+15,Metals,8307,Flexible Metal Tubing,2024,29144313.0,0.005
+15,Metals,8308,Other Metal Fasteners,2024,149905399.0,0.028
+15,Metals,8309,Metal Stoppers,2024,23365317.0,0.004
+15,Metals,8310,Metal Signs,2024,12136069.0,0.002
+15,Metals,8311,Coated Metal Soldering Products,2024,47858117.0,0.009
+16,Machines,8401,Nuclear Reactors,2024,11005.0,0.000
+16,Machines,8402,Steam Boilers,2024,11811722.0,0.002
+16,Machines,8403,Central Heating Boilers,2024,1165967.0,0.000
+16,Machines,8404,Boiler Plants,2024,45891468.0,0.009
+16,Machines,8405,Water and Gas Generators,2024,2654221.0,0.000
+16,Machines,8406,Steam Turbines,2024,3678425.0,0.001
+16,Machines,8407,Spark-Ignition Engines,2024,32636243.0,0.006
+16,Machines,8408,Combustion Engines,2024,10042146.0,0.002
+16,Machines,8409,Engine Parts,2024,294814166.0,0.055
+16,Machines,8410,Hydraulic Turbines,2024,1831708.0,0.000
+16,Machines,8411,Gas Turbines,2024,1297456860.0,0.244
+16,Machines,8412,Other Engines,2024,179236140.0,0.034
+16,Machines,8413,Liquid Pumps,2024,816676734.0,0.154
+16,Machines,8414,Air Pumps,2024,1177999215.0,0.222
+16,Machines,8415,Air Conditioners,2024,95535870.0,0.018
+16,Machines,8416,Liquid Fuel Furnaces,2024,7526330.0,0.001
+16,Machines,8417,Industrial Furnaces,2024,24234727.0,0.005
+16,Machines,8418,Refrigerators,2024,125727179.0,0.024
+16,Machines,8419,Other Heating Machinery,2024,477140094.0,0.090
+16,Machines,8420,Rolling Machines,2024,71023074.0,0.013
+16,Machines,8421,Centrifuges,2024,795481197.0,0.150
+16,Machines,8422,Washing and Bottling Machines,2024,339612376.0,0.064
+16,Machines,8423,Scales,2024,45691488.0,0.009
+16,Machines,8424,Liquid Dispersing Machines,2024,291314977.0,0.055
+16,Machines,8425,Pulley Systems,2024,101708619.0,0.019
+16,Machines,8426,Cranes,2024,15448729.0,0.003
+16,Machines,8427,Fork-Lifts,2024,61363638.0,0.012
+16,Machines,8428,Lifting Machinery,2024,334042318.0,0.063
+16,Machines,8429,Large Construction Vehicles,2024,7060189.0,0.001
+16,Machines,8430,Other Construction Vehicles,2024,22872891.0,0.004
+16,Machines,8431,Excavation Machinery,2024,295060240.0,0.056
+16,Machines,8432,Soil Preparation Machinery,2024,21296013.0,0.004
+16,Machines,8433,Harvesting Machinery,2024,35139273.0,0.007
+16,Machines,8434,Dairy Machinery,2024,2041973.0,0.000
+16,Machines,8435,Fruit Pressing Machinery,2024,1563658.0,0.000
+16,Machines,8436,Other Agricultural Machinery,2024,26360941.0,0.005
+16,Machines,8437,Mill Machinery,2024,8924066.0,0.002
+16,Machines,8438,Industrial Food Preperation Machinery,2024,145223710.0,0.027
+16,Machines,8439,Papermaking Machines,2024,56896868.0,0.011
+16,Machines,8440,Book-binding Machines,2024,8640006.0,0.002
+16,Machines,8441,Other Paper Machinery,2024,191425912.0,0.036
+16,Machines,8442,Print Production Machinery,2024,7597998.0,0.001
+16,Machines,8443,Industrial Printers,2024,694544130.0,0.131
+16,Machines,8444,Artificial Textile Machinery,2024,7092110.0,0.001
+16,Machines,8445,Textile Fiber Machinery,2024,22804886.0,0.004
+16,Machines,8446,Looms,2024,8034235.0,0.002
+16,Machines,8447,Knitting Machines,2024,99456927.0,0.019
+16,Machines,8448,Knitting Machine Accessories,2024,86899994.0,0.016
+16,Machines,8449,Felt Machinery,2024,10760697.0,0.002
+16,Machines,8450,Household Washing Machines,2024,5272473.0,0.001
+16,Machines,8451,Textile Processing Machines,2024,139476134.0,0.026
+16,Machines,8452,Sewing Machines,2024,314951666.0,0.059
+16,Machines,8453,Leather Machinery,2024,93334823.0,0.018
+16,Machines,8454,Casting Machines,2024,37209345.0,0.007
+16,Machines,8455,Metal-Rolling Mills,2024,41410808.0,0.008
+16,Machines,8456,Non-Mechanical Removal Machinery,2024,148136026.0,0.028
+16,Machines,8457,Metalworking Transfer Machines,2024,722365300.0,0.136
+16,Machines,8458,Metal Lathes,2024,599025425.0,0.113
+16,Machines,8459,Drilling Machines,2024,181605044.0,0.034
+16,Machines,8460,Metal Finishing Machines,2024,237831538.0,0.045
+16,Machines,8461,Metalworking Machines,2024,115118107.0,0.022
+16,Machines,8462,Forging Machines,2024,337992863.0,0.064
+16,Machines,8463,Other Non-Metal Removal Machinery,2024,82146943.0,0.015
+16,Machines,8464,Stone Working Machines,2024,24532871.0,0.005
+16,Machines,8465,Woodworking machines,2024,495695844.0,0.093
+16,Machines,8466,Metalworking Machine Parts,2024,1053364337.0,0.198
+16,Machines,8467,Motor-working Tools,2024,835348909.0,0.157
+16,Machines,8468,Soldering and Welding Machinery,2024,34716760.0,0.007
+16,Machines,8470,Calculators,2024,387695561.0,0.073
+16,Machines,8471,Computers,2024,60582913661.0,11.403
+16,Machines,8472,Other Office Machines,2024,61842423.0,0.012
+16,Machines,8473,Office Machine Parts,2024,18396587878.0,3.463
+16,Machines,8474,Stone Processing Machines,2024,43038638.0,0.008
+16,Machines,8475,Glass Working Machines,2024,216055030.0,0.041
+16,Machines,8476,Vending Machines,2024,35115643.0,0.007
+16,Machines,8477,Rubberworking Machinery,2024,819528699.0,0.154
+16,Machines,8478,Tobacco Processing Machines,2024,1100985.0,0.000
+16,Machines,8479,Machinery Having Individual Functions,2024,1358333466.0,0.256
+16,Machines,8480,Metal Molds,2024,313802522.0,0.059
+16,Machines,8481,Valves,2024,1712396604.0,0.322
+16,Machines,8482,Ball Bearings,2024,409837975.0,0.077
+16,Machines,8483,Transmissions,2024,1586068885.0,0.299
+16,Machines,8484,Gaskets,2024,182758596.0,0.034
+16,Machines,8486,"Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays",2024,5188242102.0,0.977
+16,Machines,8487,"Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this Chapter.",2024,299199330.0,0.056
+16,Machines,8501,Electric Motors,2024,896769875.0,0.169
+16,Machines,8502,Electric Generating Sets,2024,15024602.0,0.003
+16,Machines,8503,Electric Motor Parts,2024,340499542.0,0.064
+16,Machines,8504,Electrical Transformers,2024,3305882639.0,0.622
+16,Machines,8505,Electromagnets,2024,110536920.0,0.021
+16,Machines,8506,Batteries,2024,48283657.0,0.009
+16,Machines,8507,Electric Batteries,2024,989594085.0,0.186
+16,Machines,8508,Vacuum Cleaners,2024,12351150.0,0.002
+16,Machines,8509,Other Domestic Electric Housewares,2024,40786854.0,0.008
+16,Machines,8510,Hair Trimmers,2024,24759222.0,0.005
+16,Machines,8511,Electrical Ignitions,2024,135616627.0,0.026
+16,Machines,8512,Electrical Lighting and Signalling Equipment,2024,1866482875.0,0.351
+16,Machines,8513,Portable Lighting,2024,8744420.0,0.002
+16,Machines,8514,Electric Furnaces,2024,106506811.0,0.020
+16,Machines,8515,Electric Soldering Equipment,2024,69769022.0,0.013
+16,Machines,8516,Electric Heaters,2024,137072868.0,0.026
+16,Machines,8517,Telephones,2024,27254916788.0,5.130
+16,Machines,8518,Microphones and Headphones,2024,411432191.0,0.077
+16,Machines,8519,Sound Recording Equipment,2024,33297810.0,0.006
+16,Machines,8521,Video Recording Equipment,2024,109815067.0,0.021
+16,Machines,8522,Audio and Video Recording Accessories,2024,33693908.0,0.006
+16,Machines,8523,Blank Audio Media,2024,8798724625.0,1.656
+16,Machines,8525,Broadcasting Equipment,2024,1608002455.0,0.303
+16,Machines,8526,Navigation Equipment,2024,799050040.0,0.150
+16,Machines,8527,Radio Receivers,2024,58260426.0,0.011
+16,Machines,8528,Video Displays,2024,1017150360.0,0.191
+16,Machines,8529,Broadcasting Accessories,2024,1514015027.0,0.285
+16,Machines,8530,Traffic Signals,2024,33759846.0,0.006
+16,Machines,8531,Audio Alarms,2024,683716341.0,0.129
+16,Machines,8532,Electrical Capacitors,2024,1657529915.0,0.312
+16,Machines,8533,Electrical Resistors,2024,909079886.0,0.171
+16,Machines,8534,Printed Circuit Boards,2024,4933050484.0,0.928
+16,Machines,8535,High-voltage Protection Equipment,2024,67653081.0,0.013
+16,Machines,8536,Low-voltage Protection Equipment,2024,2082998245.0,0.392
+16,Machines,8537,Electrical Control Boards,2024,1064150291.0,0.200
+16,Machines,8538,Electrical Power Accessories,2024,670253214.0,0.126
+16,Machines,8539,Electric Filament,2024,151979357.0,0.029
+16,Machines,8540,Cathode Tubes,2024,12705339.0,0.002
+16,Machines,8541,Semiconductor Devices,2024,5482318289.0,1.032
+16,Machines,8542,Integrated Circuits,2024,223293625251.0,42.027
+16,Machines,8543,Other Electrical Machinery,2024,1210443552.0,0.228
+16,Machines,8544,Insulated Wire,2024,1284140616.0,0.242
+16,Machines,8545,Carbon-based Electronics,2024,29980388.0,0.006
+16,Machines,8546,Electrical Insulators,2024,38455179.0,0.007
+16,Machines,8547,Metal Insulating Fittings,2024,50191430.0,0.009
+16,Machines,8548,Electrical Parts,2024,178011018.0,0.034
+17,Transportation,8601,Electric Locomotives,2024,92010.0,0.000
+17,Transportation,8602,Other Locomotives (N.E.S.),2024,6388.0,0.000
+17,Transportation,8603,Self-Propelled Rail Transport,2024,11733.0,0.000
+17,Transportation,8604,Railway Maintenance Vehicles,2024,1542895.0,0.000
+17,Transportation,8605,Railway Passenger Cars,2024,339.0,0.000
+17,Transportation,8606,Railway Freight Cars,2024,88356.0,0.000
+17,Transportation,8607,Locomotive Parts,2024,6648252.0,0.001
+17,Transportation,8608,Railway Track Fixtures,2024,5751367.0,0.001
+17,Transportation,8609,Railway Cargo Containers,2024,25515304.0,0.005
+17,Transportation,8701,Tractors,2024,38298699.0,0.007
+17,Transportation,8702,Buses,2024,12374101.0,0.002
+17,Transportation,8703,Cars,2024,1017887352.0,0.192
+17,Transportation,8704,Delivery Trucks,2024,25724364.0,0.005
+17,Transportation,8705,Special purpose motor vehicles,2024,749296.0,0.000
+17,Transportation,8706,Motor vehicle (8701 to 8705) chassis fitted with engine,2024,355033.0,0.000
+17,Transportation,8707,Vehicle Bodies (including cabs) for the motor vehicles (8701 to 8705),2024,2091168.0,0.000
+17,Transportation,8708,Motor vehicles; parts and accessories (8701 to 8705),2024,3988492909.0,0.751
+17,Transportation,8709,Work Trucks,2024,36595982.0,0.007
+17,Transportation,8710,Tanks and Armored vehicles,2024,798777.0,0.000
+17,Transportation,8711,Motorcycles and cycles,2024,1045049680.0,0.197
+17,Transportation,8712,"Bicycles, delivery tricycles, other cycles",2024,1197164529.0,0.225
+17,Transportation,8713,Wheelchairs,2024,99007710.0,0.019
+17,Transportation,8714,Bi-Wheel Vehicle Parts,2024,2922924155.0,0.550
+17,Transportation,8715,Baby Carriages,2024,13058265.0,0.002
+17,Transportation,8716,"Trailers and semi-trailers, not mechanically propelled vehicles",2024,90250097.0,0.017
+17,Transportation,8801,Non-powered Aircraft,2024,285138.0,0.000
+17,Transportation,8802,"Planes, Helicopters, and/or Spacecraft",2024,445451.0,0.000
+17,Transportation,8803,"Aircraft parts (gliders, balloons, and powered aircraft)",2024,416794798.0,0.078
+17,Transportation,8804,Parachutes,2024,442753.0,0.000
+17,Transportation,8805,Aircraft Launch Gear,2024,2132829.0,0.000
+17,Transportation,8901,Passenger and Cargo Ships,2024,93161427.0,0.018
+17,Transportation,8902,Fishing Ships,2024,200900.0,0.000
+17,Transportation,8903,Recreational Boats,2024,423224972.0,0.080
+17,Transportation,8904,Tug Boats,2024,560566.0,0.000
+17,Transportation,8905,Special Purpose Ships,2024,42896301.0,0.008
+17,Transportation,8906,Other Sea Vessels,2024,12604667.0,0.002
+17,Transportation,8907,Other Floating Structures,2024,4009852.0,0.001
+17,Transportation,8908,Scrap Vessels,2024,1138230.0,0.000
+18,Instruments,9001,Optical Fibers and optical fibre bundles,2024,1967558225.0,0.370
+18,Instruments,9002,Mirrors and Lenses,2024,2378202621.0,0.448
+18,Instruments,9003,Eyewear Frames,2024,32525373.0,0.006
+18,Instruments,9004,Eyewear,2024,550840530.0,0.104
+18,Instruments,9005,Binoculars and Telescopes,2024,21161780.0,0.004
+18,Instruments,9006,Cameras,2024,29399517.0,0.006
+18,Instruments,9007,Video Cameras,2024,8088646.0,0.002
+18,Instruments,9008,Image Projectors,2024,9777919.0,0.002
+18,Instruments,9010,Photo Lab Equipment,2024,20035782.0,0.004
+18,Instruments,9011,Microscopes,2024,30349489.0,0.006
+18,Instruments,9012,Non-optical Microscopes,2024,25844608.0,0.005
+18,Instruments,9013,LCDs,2024,416235137.0,0.078
+18,Instruments,9014,Compasses,2024,339705265.0,0.064
+18,Instruments,9015,Surveying Equipment,2024,68218327.0,0.013
+18,Instruments,9016,Balances,2024,3652672.0,0.001
+18,Instruments,9017,Drafting Tools,2024,36535204.0,0.007
+18,Instruments,9018,Medical Instruments,2024,1395090165.0,0.263
+18,Instruments,9019,Therapeutic Appliances,2024,163383986.0,0.031
+18,Instruments,9020,Breathing Appliances,2024,49273195.0,0.009
+18,Instruments,9021,Orthopedic Appliances,2024,272490702.0,0.051
+18,Instruments,9022,X-Ray Equipment,2024,185948903.0,0.035
+18,Instruments,9023,Instructional Models,2024,57388641.0,0.011
+18,Instruments,9024,Tensile Testing Machines,2024,43012154.0,0.008
+18,Instruments,9025,Hydrometers,2024,139109841.0,0.026
+18,Instruments,9026,Gas and Liquid Flow Measuring Instruments,2024,348612048.0,0.066
+18,Instruments,9027,Chemical Analysis Instruments,2024,393489013.0,0.074
+18,Instruments,9028,Utility Meters,2024,20045207.0,0.004
+18,Instruments,9029,Revolution Counters,2024,100205462.0,0.019
+18,Instruments,9030,Oscilloscopes,2024,1862395252.0,0.351
+18,Instruments,9031,Other Measuring Instruments,2024,1824360185.0,0.343
+18,Instruments,9032,Thermostats,2024,275726975.0,0.052
+18,Instruments,9033,Opto-Electric Instrument Parts,2024,44609605.0,0.008
+18,Instruments,9101,Precious Metal Watches,2024,50738632.0,0.010
+18,Instruments,9102,Base Metal Watches,2024,156486024.0,0.029
+18,Instruments,9103,Clocks with Watch Movements,2024,137246.0,0.000
+18,Instruments,9104,Dashboard Clocks,2024,320963.0,0.000
+18,Instruments,9105,Other Clocks,2024,4447117.0,0.001
+18,Instruments,9106,Time Recording Instruments,2024,10099022.0,0.002
+18,Instruments,9107,Time Switches,2024,12187756.0,0.002
+18,Instruments,9108,Watch Movements,2024,516092.0,0.000
+18,Instruments,9109,Clock Movements,2024,251381.0,0.000
+18,Instruments,9110,Incomplete Movement Sets,2024,200475.0,0.000
+18,Instruments,9111,Watch Cases and Parts,2024,2575685.0,0.000
+18,Instruments,9112,Clock Cases and Parts,2024,146931.0,0.000
+18,Instruments,9113,Watch Straps,2024,14568691.0,0.003
+18,Instruments,9114,Other Clocks and Watches,2024,9510943.0,0.002
+18,Instruments,9201,Pianos,2024,242101.0,0.000
+18,Instruments,9202,String Instruments,2024,1334899.0,0.000
+18,Instruments,9205,Wind Instruments,2024,58030314.0,0.011
+18,Instruments,9206,Percussion,2024,36912634.0,0.007
+18,Instruments,9207,Electric Musical Instruments,2024,11197613.0,0.002
+18,Instruments,9208,Other Musical Instruments,2024,3138878.0,0.001
+18,Instruments,9209,Musical Instrument Parts,2024,82797151.0,0.016
+19,Weapons,9301,Military Weapons,2024,3403817.0,0.001
+19,Weapons,9302,Handguns,2024,72345.0,0.000
+19,Weapons,9303,Other Firearms,2024,711561.0,0.000
+19,Weapons,9304,"Spring, Air, and Gas Guns",2024,123149132.0,0.023
+19,Weapons,9305,Weapons Parts and Accessories,2024,89587572.0,0.017
+19,Weapons,9306,Explosive Ammunition,2024,36508648.0,0.007
+19,Weapons,9307,Bladed Weapons and Accessories,2024,3488006.0,0.001
+20,Miscellaneous,9401,Seats,2024,454007390.0,0.085
+20,Miscellaneous,9402,Medical Furniture,2024,167815996.0,0.032
+20,Miscellaneous,9403,Other Furniture,2024,1192638273.0,0.224
+20,Miscellaneous,9404,Mattresses,2024,48837090.0,0.009
+20,Miscellaneous,9405,Light Fixtures,2024,303818912.0,0.057
+20,Miscellaneous,9406,Prefabricated Buildings,2024,7412581.0,0.001
+20,Miscellaneous,9503,Other toys,2024,295756663.0,0.056
+20,Miscellaneous,9504,Video and Card Games,2024,271798767.0,0.051
+20,Miscellaneous,9505,Party Decorations,2024,21244279.0,0.004
+20,Miscellaneous,9506,Sports Equipment,2024,1862954881.0,0.351
+20,Miscellaneous,9507,Fishing and Hunting Equipment,2024,44163148.0,0.008
+20,Miscellaneous,9508,Fairground Amusements,2024,12881490.0,0.002
+20,Miscellaneous,9601,Worked Ivory and Bone,2024,2762289.0,0.001
+20,Miscellaneous,9602,Vegetable and Mineral Carvings,2024,4681758.0,0.001
+20,Miscellaneous,9603,Brooms,2024,68525516.0,0.013
+20,Miscellaneous,9604,Hand Sifters,2024,392512.0,0.000
+20,Miscellaneous,9605,Travel Kits,2024,1107426.0,0.000
+20,Miscellaneous,9606,Buttons,2024,35944220.0,0.007
+20,Miscellaneous,9607,Zippers,2024,249603768.0,0.047
+20,Miscellaneous,9608,Pens,2024,55683843.0,0.010
+20,Miscellaneous,9609,Pencils and Crayons,2024,8255578.0,0.002
+20,Miscellaneous,9610,Chalkboards,2024,6163050.0,0.001
+20,Miscellaneous,9611,Rubber Stamps,2024,19659614.0,0.004
+20,Miscellaneous,9612,Ink Ribbons,2024,22513764.0,0.004
+20,Miscellaneous,9613,Lighters,2024,3924681.0,0.001
+20,Miscellaneous,9614,Smoking Pipes,2024,158189.0,0.000
+20,Miscellaneous,9615,Combs,2024,13006490.0,0.002
+20,Miscellaneous,9616,Scent Sprays,2024,10873056.0,0.002
+20,Miscellaneous,9617,Vacuum Flask,2024,13633074.0,0.003
+20,Miscellaneous,9618,Mannequins,2024,2578449.0,0.000
+20,Miscellaneous,9619,Sanitary towels (pads),2024,40578936.0,0.008
+20,Miscellaneous,9620,"Monopods, bipods, tripods and similar articles",2024,7851885.0,0.001
+21,Arts and Antiques,9701,Paintings,2024,202094034.0,0.038
+21,Arts and Antiques,9702,Prints,2024,374344.0,0.000
+21,Arts and Antiques,9703,Sculptures,2024,7694218.0,0.001
+21,Arts and Antiques,9704,Revenue Stamps,2024,119834.0,0.000
+21,Arts and Antiques,9705,Collector's Items,2024,885991.0,0.000
+21,Arts and Antiques,9706,Antiques,2024,10743707.0,0.002
